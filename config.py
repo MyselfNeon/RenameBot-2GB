@@ -41,13 +41,13 @@ class Txt(object):
 
     ABOUT_TXT = """
 ╭───────────────⍟
-├<b>🤖 My Name</b> : {}
-├<b>🖥️ Developer</b> : <a href=https://t.me/OnionXbot><b>NeonAn❤️</b></a> 
-├<b>👨‍💻 Programer</b> : <a href=https://t.me/NeonFiles><b>MyselfNeon</b></a>
+├<b>🤖 My Name</b> : <b>{}</b>
+├<b>🖥️ Developer</b> : <a href=https://t.me/OnionXbot><b>Contact Me</b></a> 
+├<b>👨‍💻 Programer</b> : <a href=https://t.me/MyselfNeon><b>MyselfNeon</b></a>
 ├<b>📕 Library</b> : <a href=https://github.com/pyrogram><b>Pyrogram</b></a>
 ├<b>✏️ Language</b> : <a href=https://www.python.org><b>Python 3</b></a>
 ├<b>💾 Database</b> : <a href=https://cloud.mongodb.com><b>Mongo DB</b></a>
-├<b>📢 Instagram</b> : <a href=https://instagram.com/neon.an_><b>Rename v4.5.0</a></b>     
+├<b>📢 Channel</b> : <a href=https://t.me/NeonFiles><b>Rename v4.5.0</a></b>     
 ╰───────────────⍟
 """
 
