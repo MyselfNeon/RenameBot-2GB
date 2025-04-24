@@ -26,8 +26,3 @@ async def addthumbs(client, message):
 
 
 
-
-
-# Don't Remove Credit 🥺
-# Telegram Channel @NeonFiles
-# Developer @MyselfNeon
