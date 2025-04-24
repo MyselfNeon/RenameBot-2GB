@@ -67,7 +67,6 @@ delthumb - To delete current thumbnail.
 set_caption - set a custom caption.
 see_caption - see your custom caption.
 del_caption - delete custom caption.
-metadata - To change your metadata
 ping - To check bot ping.
 donate - To support developer.
 set_prefix - Set Your Prefix
@@ -90,4 +89,4 @@ status - Check bot status [FOR ADMINS USE ONLY].
 - [NeonFiles🌷](https://t.me/neonfiles)
 
 ### ❤️‍🩹 Contact Telegram
-- [Jishu Developer](https://t.me/JishuDeveloper)
+- [MyselfNeon](https://t.me/OnionXbot)
