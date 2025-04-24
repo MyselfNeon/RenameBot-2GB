@@ -43,7 +43,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=Txt.HELP_TXT,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([
-                [InlineKeyboardButton("⚡ 4GB Rename Bot", url="https://t.me/FileRenameXProBot")],
+                [InlineKeyboardButton("⚡ Files Sharing Bot", url="https://t.me/NeonFilesBot")],
                 [InlineKeyboardButton("🔒 Close", callback_data = "close"),
                 InlineKeyboardButton("◀️ Back", callback_data = "start")]
             ])            
@@ -83,4 +83,4 @@ async def donate(client, message):
 
 # Don't Remove Credit 🥺
 # Telegram Channel @NeonFiles
-# Developer @NeonAn23
+# Developer @MyselfNeon
