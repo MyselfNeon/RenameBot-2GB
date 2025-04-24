@@ -33,8 +33,7 @@ class Txt(object):
 
 <b>This is a powerful rename bot with muti advance features -</b>
 
-<b>• Metadata
-• Rename Files
+<b>• Rename Files
 • Convert Videos ⇄ Files
 • Custom Thumbnail and Caption</b>
 
