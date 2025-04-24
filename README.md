@@ -35,7 +35,7 @@
 <summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/JishuDeveloper/Rename-Bot-2GB">
+<a href="[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=renamebot-2gb&repository=MyselfNeon%2FRenameBot-2GB&branch=main&instance_type=free&regions=was&instances_min=0&autoscaling_sleep_idle_delay=300&env%5BDB_URL%5D=mongodb%2Bsrv%3A%2F%2FMyselfNeon%3ACasper02an%40clusterneon.uuwmw.mongodb.net%2F%3FretryWrites%3Dtrue%26w%3Dmajority%26appName%3DClusterNeon&env%5BBOT_TOKEN%5D=7328553681%3AAAEqduHJMtavJhsF4CDKBOXxGlpjUhVXiDU&env%5BAPI_HASH%5D=77a03481542a0175aaa33cfabfd38604&env%5BAPI_ID%5D=25923579&ports=8080%3Bhttp%3B%2F&hc_protocol%5B8080%5D=tcp&hc_grace_period%5B8080%5D=5&hc_interval%5B8080%5D=30&hc_restart_limit%5B8080%5D=3&hc_timeout%5B8080%5D=5&hc_path%5B8080%5D=%2F&hc_method%5B8080%5D=get)">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
