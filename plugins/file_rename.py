@@ -189,8 +189,3 @@ async def doc(bot, update):
 
 
 
-
-# Jishu Developer 
-# Don't Remove Credit 🥺
-# Telegram Channel @JishuBotz
-# Developer @JishuDeveloper
