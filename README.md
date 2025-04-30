@@ -1,11 +1,17 @@
 <img src="https://envs.sh/RQS.jpg" alt="logo" target="/blank">
 
-<h1 align="center">
- <b><a href="https://t.me/Rename2GBbot" target="/blank"> Rename Bot 2GB </a></>
-</h1>
-
-<p align="center">🩵 Thanks for Being Here 🩵</p>
-
+### _Features_
+<b><i>
+- Renames very fast
+- Set custom caption
+- Supports Broadcasts
+- Developer Service 24x7 🔥
+- Has a custom Start-up pic
+- Force Subscribe available
+- Permanent Thumbnail support
+- Unlimited Renaming at a time
+- Force join for the user for use
+</b></i>
 
 ### CONFIGS VARIABLES
 
