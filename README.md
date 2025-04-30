@@ -81,21 +81,7 @@ python3 bot.py
 
 </details>
 
-### FEATURES
- - Renames very fast .
- - Permanent Thumbnail support.
- - Force join for the user for use.
- - Supports Broadcasts.
- - Set custom caption.
- - Has a custom Start-up pic.
- - Force subscribe available.
- - Supports ulimited renaming at a time.
- - Deploy to Koyeb + Heroku + Railway.
- - Developer Service 24x7. 🔥
-
-
-
-### ALL COMMANDS
+### _Commands_
 
 ```
 start - Check if the bot is running.
@@ -112,9 +98,9 @@ del_prefix - Delete Your Prefix
 set_suffix - Set Your Suffix
 see_suffix - See Your Suffix
 del_suffix - Delete Your Suffix
-restart - To restart the bot [FOR ADMINS USE ONLY]
-broadcast - Message Broadcast command [FOR ADMINS USE ONLY].
-status - Check bot status [FOR ADMINS USE ONLY].
+restart - To restart the bot [FOR ADMINS ONLY]
+broadcast - Message Broadcast command [FOR ADMINS ONLY].
+status - Check bot status [FOR ADMINS ONLY].
 ```
 <h3>Contact Developer</h3>
 
