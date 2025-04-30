@@ -19,7 +19,9 @@ _**Watch on Telegram as [Rename2GB](https://t.me/rename2GBbot)**_
 - Force join for the user for use
 </b></i>
 
-### CONFIGS VARIABLES
+### _Config Variables_
+
+<details><summary><b>Variables</summary></b></summary>
 
 * `BOT_TOKEN`  - Get bot token from <a href="https://t.me/BotFather" target="/blank">Bot Father</a>
 * `API_ID` - Get api id from <a href="https://my.telegram.org" target="/blank">Telegram Auth</a>
@@ -30,8 +32,7 @@ _**Watch on Telegram as [Rename2GB](https://t.me/rename2GBbot)**_
 * `DB_NAME`  - Your database name from mongoDB. `Optional`
 * `FORCE_SUB` - Your force sub channel username without @ `Optional`
 * `START_PIC` - Start message photo. `Optional`
-
-
+</details>
 
 ### DEPLOYEMENT SUPPORT
 
