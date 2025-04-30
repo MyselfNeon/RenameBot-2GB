@@ -23,13 +23,13 @@ _**Watch on Telegram as [Rename2GB](https://t.me/rename2GBbot)**_
 
 <details><summary><b>Variables</summary></b></summary>
 
-* `BOT_TOKEN`  - Get bot token from <a href="https://t.me/BotFather" target="/blank">Bot Father</a>
-* `API_ID` - Get api id from <a href="https://my.telegram.org" target="/blank">Telegram Auth</a>
-* `API_HASH` - Get api hash from <a href="https://my.telegram.org" target="/blank">Telegram Auth</a>
-* `ADMIN` - Admin user id
+* [`API_ID`] - _**From  <a href='https://my.telegram.org/'>Telegram Auth**_</a>
+* [`API_HASH`] - _**From <a href='https://my.telegram.org/'>Telegram Auth**_</a>
+* [`BOT_TOKEN`] - _**From <a href='https://t.me/botfather'>BotFather**_</a>
+* [`ADMIN`] - **_Admin user id_**
+* [`DB_URL`] - _**Your<a href='https://cloud.mongodb.com/'> MongoDB Url**_</a>
+* [`DB_NAME`] - _**Your <a href='https://cloud.mongodb.com/'>MongoDB database Name**_</a> _`Optional`_
 * `LOG_CHANNEL` - Bot Log Channel ⚠️ Id startswith -100 must.
-* `DB_URL`  - Mongo Database URL from <a href="https://cloud.mongodb.com" target="/blank">Mongo DB</a>
-* `DB_NAME`  - Your database name from mongoDB. `Optional`
 * `FORCE_SUB` - Your force sub channel username without @ `Optional`
 * `START_PIC` - Start message photo. `Optional`
 </details>
