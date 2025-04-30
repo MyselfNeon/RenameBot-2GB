@@ -29,9 +29,9 @@ _**Watch on Telegram as [Rename2GB](https://t.me/rename2GBbot)**_
 * [`ADMIN`] - **_Admin user id_**
 * [`DB_URL`] - _**Your<a href='https://cloud.mongodb.com/'> MongoDB Url**_</a>
 * [`DB_NAME`] - _**Your <a href='https://cloud.mongodb.com/'>MongoDB database Name**_</a> _`Optional`_
-* `LOG_CHANNEL` - Bot Log Channel ⚠️ Id startswith -100 must.
-* `FORCE_SUB` - Your force sub channel username without @ `Optional`
-* `START_PIC` - Start message photo. `Optional`
+* [`LOG_CHANNEL`] - _**Bot Log Channel. Id startswith -100**_
+* [`FORCE_SUB`] - _**Force Sub Channel without @**_ _`Optional`_
+* [`START_PIC`] - _**Start message photo**_ _`Optional`_
 </details>
 
 ### DEPLOYEMENT SUPPORT
