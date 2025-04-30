@@ -1,4 +1,10 @@
+<h2 align="center">
+    RenameBot-2GB
+</h2>
+
 <img src="https://envs.sh/RQS.jpg" alt="logo" target="/blank">
+
+_**Watch on Telegram as [AutoRename](https://t.me/rename2GBbot)**_
 
 ### _Features_
 <b><i>
