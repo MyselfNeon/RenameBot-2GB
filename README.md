@@ -34,28 +34,52 @@ _**Watch on Telegram as [Rename2GB](https://t.me/rename2GBbot)**_
 * [`START_PIC`] - _**Start message photo**_ _`Optional`_
 </details>
 
-### DEPLOYEMENT SUPPORT
+### _Deployment Methods_
 
-<summary>Deploy To Koyeb</summary>
-<p>
-<br>                 
-<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/JishuDeveloper/Rename-Bot-2GB&branch=main&name=rename-bot-2gb" >
-  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
-</a>
-</p>
+<details><summary><b><i>Deploy on Multiple Servers</i></summary></b></summary>
 
-
-<summary>Deploy To Heroku</summary>
+<details><summary><b><i>Deploy To Heroku</i></b></summary>
 <p>
 <br>
-<a href="[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=renamebot-2gb&repository=MyselfNeon%2FRenameBot-2GB&branch=main&builder=dockerfile&instance_type=free&regions=was&instances_min=0&autoscaling_sleep_idle_delay=300&env%5BAPI_HASH%5D=77a03481542a0175aaa33cfabfd38604&env%5BAPI_ID%5D=25923579&env%5BBOT_TOKEN%5D=7328553681%3AAAEqduHJMtavJhsF4CDKBOXxGlpjUhVXiDU&env%5BDB_URL%5D=mongodb%2Bsrv%3A%2F%2FMyselfNeon%3ACasper02an%40clusterneon.uuwmw.mongodb.net%2F%3FretryWrites%3Dtrue%26w%3Dmajority%26appName%3DClusterNeon&ports=8080%3Bhttp%3B%2F&hc_protocol%5B8080%5D=tcp&hc_grace_period%5B8080%5D=5&hc_interval%5B8080%5D=30&hc_restart_limit%5B8080%5D=3&hc_timeout%5B8080%5D=5&hc_path%5B8080%5D=%2F&hc_method%5B8080%5D=get)">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+<a href="https://heroku.com/deploy?template=https://github.com/myselfneon/autorename-bot">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
+</details>
 
+<details><summary><b><i>Deploy To Koyeb</i></b></summary>
+<i>The fastest way to deploy the application is to click the Deploy to Koyeb button below.</i>
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/myselfneon/autorename-bot)
+</details>
 
+<details><summary><b><i>Deploy on Railway</i></b></summary>
+<a href="https://railway.app/new/template/y0ryFO">
+<img src="https://railway.app/button.svg" alt="Deploy on Railway">
+</a>
+</details>
 
+<details><summary><i><b>Deploy To Render</b></i></summary>
+<br>
+<a href="https://render.com/deploy?repo=https://github/myselfneon/autorename-bot">
+<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
+</details>
+
+<details><summary><b><i>Deploy To VPS</i></b></summary>
+<p>
+<pre>
+Use VPS Branch
+git clone https://github.com/myselfneon/autorename-bot
+# Install Packages
+pip3 install -U -r requirements.txt
+Edit config.py with variables as given below then run bot
+python3 bot.py
+</pre>
+</p>
+</details>
+
+</details>
 
 ### FEATURES
  - Renames very fast .
