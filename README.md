@@ -79,14 +79,12 @@ restart - To restart the bot [FOR ADMINS USE ONLY]
 broadcast - Message Broadcast command [FOR ADMINS USE ONLY].
 status - Check bot status [FOR ADMINS USE ONLY].
 ```
+<h3>Contact Developer</h3>
 
+<a href="https://telegram.me/OnionXbot"><img src="https://img.shields.io/badge/-Contact%20Dev-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/neonfiles"><img src="https://img.shields.io/badge/-Update%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
+### Respecting 🌊
 
-### ❤️ Respecting ❤️
-- [Developer](https://github.com/MyselfNeon)
-
-### 😍 Telegram Channel 😍
-- [NeonFiles🌷](https://t.me/neonfiles)
-
-### ❤️‍🩹 Contact Telegram
-- [MyselfNeon](https://t.me/OnionXbot)
+<a href="https://github.com/myselfneon"><img src="https://img.shields.io/badge/-Developer%20-red.svg?style=for-the-badge&logo=Github"></a>
+<a href='https://github.com/myselfnron'></a>
