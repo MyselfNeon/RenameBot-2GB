@@ -6,6 +6,13 @@
 
 _**Watch on Telegram as [Rename2GB](https://t.me/rename2GBbot)**_
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=NEON+FILES+RENAME+BOT+2GB+!;CREATED+BY+MYSELFNEON!;A+RENAME+BOT+WITH+COOL+FEATURES!)</p>
+<a href="https://github.com/myselfneon/RenameBot-2GB/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
+<a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/Myselfneon/RenameBot-2GB"> <img src="https://img.shields.io/github/repo-size/myselfneon/RenameBot-2GB?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/Myselfneon/RenameBot-2GB"> <img src="https://img.shields.io/github/last-commit/myselfneon/RenameBot-2GB?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+
 ### _Features_
 <b><i>
 - Renames very fast
