@@ -41,7 +41,7 @@ _**Watch on Telegram as [Rename2GB](https://t.me/rename2GBbot)**_
 <details><summary><b><i>Deploy To Heroku</i></b></summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/myselfneon/autorename-bot">
+<a href="https://heroku.com/deploy?template=https://github.com/MyselfNeon/RenameBot-2GB">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -50,7 +50,7 @@ _**Watch on Telegram as [Rename2GB](https://t.me/rename2GBbot)**_
 <details><summary><b><i>Deploy To Koyeb</i></b></summary>
 <i>The fastest way to deploy the application is to click the Deploy to Koyeb button below.</i>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/myselfneon/autorename-bot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/MyselfNeon/RenameBot-2GB)
 </details>
 
 <details><summary><b><i>Deploy on Railway</i></b></summary>
@@ -61,7 +61,7 @@ _**Watch on Telegram as [Rename2GB](https://t.me/rename2GBbot)**_
 
 <details><summary><i><b>Deploy To Render</b></i></summary>
 <br>
-<a href="https://render.com/deploy?repo=https://github/myselfneon/autorename-bot">
+<a href="https://render.com/deploy?repo=https://github.com/MyselfNeon/RenameBot-2GB">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
@@ -70,7 +70,7 @@ _**Watch on Telegram as [Rename2GB](https://t.me/rename2GBbot)**_
 <p>
 <pre>
 Use VPS Branch
-git clone https://github.com/myselfneon/autorename-bot
+git clone https://github.com/MyselfNeon/RenameBot-2GB
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit config.py with variables as given below then run bot
