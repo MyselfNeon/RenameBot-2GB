@@ -102,6 +102,8 @@ restart - To restart the bot [FOR ADMINS ONLY]
 broadcast - Message Broadcast command [FOR ADMINS ONLY].
 status - Check bot status [FOR ADMINS ONLY].
 ```
+<b><i>⪼ Copy all Commands and paste it in <a href='https://t.me/botfather'>Botfather</a> to apply commands.
+
 <h3>Contact Developer</h3>
 
 <a href="https://telegram.me/OnionXbot"><img src="https://img.shields.io/badge/-Contact%20Dev-blue.svg?style=for-the-badge&logo=Telegram"></a>
