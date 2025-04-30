@@ -4,7 +4,7 @@
 
 <img src="https://envs.sh/RQS.jpg" alt="logo" target="/blank">
 
-_**Watch on Telegram as [Rename2GBbot](https://t.me/rename2GBbot)**_
+_**Watch on Telegram as [Rename2GB](https://t.me/rename2GBbot)**_
 
 ### _Features_
 <b><i>
