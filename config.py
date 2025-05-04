@@ -54,15 +54,15 @@ class Txt(object):
     HELP_TXT = """
 ⁉️ <b><u>How To Set Thumbnail</u></b>
   
-➪ /start - <b><i>Start The Bot And Send Any Photo To Automatically Set Thumbnail.</i></b>
-➪ /del_thumb - <b><i>Use This Command To Delete Your Old Thumbnail.</i></b>
-➪ /view_thumb - <b><i>Use This Command To View Your Current Thumbnail.</i></b>
+/start - <b><i>Start The Bot And Send Any Photo To Automatically Set Thumbnail.</i></b>
+/del_thumb - <b><i>Use This Command To Delete Your Old Thumbnail.</i></b>
+/view_thumb - <b><i>Use This Command To View Your Current Thumbnail.</i></b>
 
 ⁉️ <b><u>How To Set Custom Caption</u></b>
 
-➪ /set_caption - <b><i>Use This Command To Set A Custom Caption</i></b>
-➪ /see_caption - <b><i>Use This Command To View Your Custom Caption</i></b>
-➪ /del_caption - <b><i>Use This Command To Delete Your Custom Caption</i></b>
+/set_caption - <b><i>Use This Command To Set A Custom Caption</i></b>
+/see_caption - <b><i>Use This Command To View Your Custom Caption</i></b>
+/del_caption - <b><i>Use This Command To Delete Your Custom Caption</i></b>
 
 ```⚠️ Example
 <code>/set_caption 📕 Name ➠ : {filename}
