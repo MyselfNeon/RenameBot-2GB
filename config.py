@@ -92,7 +92,7 @@ class Txt(object):
 """
 
 
-💬 <b><i>For Any Help Contact @OnionXbot</i></b>
+💬 For Any Help Contact @OnionXbot
 """
 
 
