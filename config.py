@@ -41,13 +41,13 @@ class Txt(object):
 
     ABOUT_TXT = """
 ╭───────────────⍟
-├<b>🤖 My Name</b> : <b>{}</b>
-├<b>🖥️ Developer</b> : <a href=https://t.me/OnionXbot><b>Contact Me</b></a> 
-├<b>👨‍💻 Programer</b> : <a href=https://t.me/MyselfNeon><b>MyselfNeon</b></a>
-├<b>📕 Library</b> : <a href=https://github.com/pyrogram><b>Pyrogram</b></a>
-├<b>✏️ Language</b> : <a href=https://www.python.org><b>Python 3</b></a>
-├<b>💾 Database</b> : <a href=https://cloud.mongodb.com><b>Mongo DB</b></a>
-├<b>📢 Channel</b> : <a href=https://t.me/NeonFiles><b>Rename v4.5.0</a></b>     
+├<b><i>🤖 My Name</i></b> : <b>{}</b>
+├<b><i>🖥️ Developer</i></b> : <a href=https://t.me/OnionXbot><b><i>Contact Me</i></b></a> 
+├<b><i>👨‍💻 Programer</i></b> : <a href=https://t.me/MyselfNeon><b><i>MyselfNeon</i></b></a>
+├<b><i>📕 Library</i></b> : <a href=https://github.com/pyrogram><b><i>Pyrogram</i></b></a>
+├<b><i>✏️ Language</i></b> : <a href=https://www.python.org><b><i>Python 3</i></b></a>
+├<b><i>💾 Database</i></b> : <a href=https://cloud.mongodb.com><b><i>Mongo DB</i></b></a>
+├<b><i>📢 Channel</i></b> : <a href=https://t.me/NeonFiles><b><i>Rename v4.5.0</i></a></b>     
 ╰───────────────⍟
 """
 
