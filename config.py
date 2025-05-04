@@ -54,15 +54,15 @@ class Txt(object):
     HELP_TXT = """
 ⁉️ <b><u>How To Set Thumbnail</u></b>
   
-/start - <b><i>Start The Bot And Send Any Photo To Automatically Set Thumbnail.</i></b>
-/del_thumb - <b><i>Use This Command To Delete Your Old Thumbnail.</i></b>
-/view_thumb - <b><i>Use This Command To View Your Current Thumbnail.</i></b>
+/start - <i>Start The Bot And Send Any Photo To Automatically Set Thumbnail.</i>
+/del_thumb - <i>Use This Command To Delete Your Old Thumbnail.</i>
+/view_thumb - <i>Use This Command To View Your Current Thumbnail.</i>
 
 ⁉️ <b><u>How To Set Custom Caption</u></b>
 
-/set_caption - <b><i>Use This Command To Set A Custom Caption</i></b>
-/see_caption - <b><i>Use This Command To View Your Custom Caption</i></b>
-/del_caption - <b><i>Use This Command To Delete Your Custom Caption</i></b>
+/set_caption - <i>Use This Command To Set A Custom Caption</i>
+/see_caption - <i>Use This Command To View Your Custom Caption</i>
+/del_caption - <i>Use This Command To Delete Your Custom Caption</i>
 
 ```⚠️ Example
 <code>/set_caption 📕 Name ➠ : {filename}
@@ -72,7 +72,7 @@ class Txt(object):
 
 ⁉️ <b><u>How To Rename A File</u></b>
 
-<b><i>Send Any File And Type New File Name And Select The Format [ Document, Video, Audio ].</i></b>         
+<i>Send Any File And Type New File Name And Select The Format [ Document, Video, Audio ].</i> 
 
 <b><i>➡️ Any Other help Contact</b></i><a href=https://t.me/OnionXbot><b><i> Developer</i></b></a>
 """
