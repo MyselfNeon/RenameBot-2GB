@@ -3,7 +3,7 @@
     "description": "Telegram File Renamer Bot 2GB",
     "logo": "https://graph.org/file/2c62c5c158d42b0dc8deb.jpg",
     "keywords": ["Renamer Bot 2GB", "Mongo DB"],    
-    "repository": "https://github.com/jishusinha/Rename-Bot-2GB",
+    "repository": "https://github.com/MyselfNeon/RenameBot-2GB",
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
