@@ -64,18 +64,18 @@ class Txt(object):
 ➪ /see_caption - <b><i>Use This Command To View Your Custom Caption</i></b>
 ➪ /del_caption - <b><i>Use This Command To Delete Your Custom Caption</i></b>
 
-➪ <b><i><u>Example</i></u></b> - 
-<code>/set_caption 
-📕 <b><i>Name</i></b> ➠ : {filename}
+```⚠️ <b><u>Example</u></b>
+
+<code>/set_caption 📕 <b><i>Name</i></b> ➠ : {filename}
 
 <b>🔗 <i>Size</i></b> ➠ : {filesize} 
-<b>⏰ <i>Duration</i></b> ➠ : {duration}</code>
+<b>⏰ <i>Duration</i></b> ➠ : {duration}</code>```
 
 ⁉️ <b><u>How To Rename A File</u></b>
 
-<b><i>➪ Send Any File And Type New File Name And Select The Format [ Document, Video, Audio ].</i></b>         
+<b><i>Send Any File And Type New File Name And Select The Format [ Document, Video, Audio ].</i></b>         
 
-<b><i>Any Other help Contact</b></i> :- <a href=https://t.me/OnionXbot><b><i>Developer</i></b></a>
+<b><i>➡️ Any Other help Contact</b></i><a href=https://t.me/OnionXbot><b><i> Developer</i></b></a>
 """
 
     PROGRESS_BAR = """\n
