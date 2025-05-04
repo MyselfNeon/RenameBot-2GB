@@ -1,7 +1,7 @@
 {
     "name": "Renamer Bot 2GB",
     "description": "Telegram File Renamer Bot 2GB",
-    "logo": "https://graph.org/file/2c62c5c158d42b0dc8deb.jpg",
+    "logo": "https://envs.sh/RQS.jpg",
     "keywords": ["Renamer Bot 2GB", "Mongo DB"],    
     "repository": "https://github.com/MyselfNeon/RenameBot-2GB",
     "env": {
@@ -52,7 +52,7 @@
         },
         "START_PIC": {
             "description": "Your Bot start cmd Pic from @MT_TelegraPH_Bot",
-            "value": "https://graph.org/file/77d2eddf9657a87acb881.jpg",
+            "value": "https://envs.sh/RQS.jpg",
             "required": false
         }
     },
