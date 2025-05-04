@@ -17,7 +17,7 @@ async def rename_start(client, message):
     file = getattr(message, message.media.value)
     filename = file.file_name  
     if file.file_size > 2000 * 1024 * 1024:
-         return await message.reply_text("Sorry Bro This Bot Doesn't Support Uploading Files Bigger Than 2GB")
+         return await message.reply_text("<b><i>Sorry Bro This Bot Doesn't Support Uploading Files Bigger Than 2GB</b></i>")
 
     try:
         await message.reply_text(
@@ -88,7 +88,7 @@ async def doc(bot, update):
     file_path = f"downloads/{update.from_user.id}/{new_filename}"
     file = update.message.reply_to_message
 
-    ms = await update.message.edit("🚀 Try To Download...  ⚡")    
+    ms = await update.message.edit("🚀 Trying To Download...  ⚡")    
     try:
      	path = await bot.download_media(message=file, file_name=file_path, progress=progress_for_pyrogram,progress_args=("🚀 Try To Downloading...  ⚡", ms, time.time()))                    
     except Exception as e:
@@ -142,7 +142,7 @@ async def doc(bot, update):
                  print(e)  
 
 
-    await ms.edit("💠 Try To Upload...  ⚡")
+    await ms.edit("💠 Trying To Upload...  ⚡")
     type = update.data.split("_")[1]
     try:
         if type == "document":
@@ -152,7 +152,7 @@ async def doc(bot, update):
                 thumb=ph_path, 
                 caption=caption, 
                 progress=progress_for_pyrogram,
-                progress_args=("💠 Try To Uploading...  ⚡", ms, time.time()))
+                progress_args=("💠 Trying To Upload...  ⚡", ms, time.time()))
 
         elif type == "video": 
             await bot.send_video(
@@ -162,7 +162,7 @@ async def doc(bot, update):
                 thumb=ph_path,
                 duration=duration,
                 progress=progress_for_pyrogram,
-                progress_args=("💠 Try To Uploading...  ⚡", ms, time.time()))
+                progress_args=("💠 Trying To Upload...  ⚡", ms, time.time()))
 
         elif type == "audio": 
             await bot.send_audio(
@@ -172,7 +172,7 @@ async def doc(bot, update):
                 thumb=ph_path,
                 duration=duration,
                 progress=progress_for_pyrogram,
-                progress_args=("💠 Try To Uploading...  ⚡", ms, time.time()))
+                progress_args=("💠 Trying To Upload...  ⚡", ms, time.time()))
 
 
     except Exception as e:          
