@@ -12,7 +12,7 @@ async def start(client, message):
     await jishubotz.add_user(client, message)                
     button = InlineKeyboardMarkup([
         [InlineKeyboardButton('🔊 Updates', url='https://t.me/NeonFiles'),
-        InlineKeyboardButton('♻️ Sᴜᴩᴩᴏʀᴛ', url='https://t.me/OnionXbot')],
+        InlineKeyboardButton('♻️ Sᴜᴩᴩᴏʀᴛ', url='https://t.me/NeonfilesChat')],
         [InlineKeyboardButton('❤️‍🩹 About', callback_data='about'),
         InlineKeyboardButton('🛠️ Help', callback_data='help')],
         [InlineKeyboardButton("👨‍💻 Developer", url='https://t.me/MyselfNeon')]
