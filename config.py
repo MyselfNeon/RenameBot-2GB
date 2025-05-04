@@ -92,12 +92,6 @@ class Txt(object):
 """
 
 
-    SEND_METADATA = """<b><u><i>🖼️ HOW TO SET CUSTOM METADATA</i></u></b>
-
-For Example :-
-
-<code>By :- <b>@NeonFiles🌷</b></code>
-
 💬 <b><i>For Any Help Contact @OnionXbot</i></b>
 """
 
