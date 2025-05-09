@@ -88,7 +88,7 @@ async def doc(bot, update):
     file_path = f"downloads/{update.from_user.id}/{new_filename}"
     file = update.message.reply_to_message
 
-    ms = await update.message.edit("🚀 Trying To Download...  ⚡")    
+    ms = await update.message.edit("🚀 <b>Trying To Download ...</b> ⚡")    
     try:
      	path = await bot.download_media(message=file, file_name=file_path, progress=progress_for_pyrogram,progress_args=("🚀 Try To Downloading...  ⚡", ms, time.time()))                    
     except Exception as e:
@@ -103,7 +103,7 @@ async def doc(bot, update):
         metadata_path = f"Metadata/{new_filename}"
         await add_metadata(path, metadata_path, metadata, ms)
     else:
-        await ms.edit("⏳ Mode Changing...  ⚡")
+        await ms.edit("⏳ <b>Mode Changing ...</b> ⚡")
 
     duration = 0
     try:
@@ -142,7 +142,7 @@ async def doc(bot, update):
                  print(e)  
 
 
-    await ms.edit("💠 Trying To Upload...  ⚡")
+    await ms.edit("💠 <b>Uploading now ...</b> ⚡")
     type = update.data.split("_")[1]
     try:
         if type == "document":
@@ -152,7 +152,7 @@ async def doc(bot, update):
                 thumb=ph_path, 
                 caption=caption, 
                 progress=progress_for_pyrogram,
-                progress_args=("💠 Trying To Upload...  ⚡", ms, time.time()))
+                progress_args=("💠 <b>Uploading now ...</b> ⚡", ms, time.time()))
 
         elif type == "video": 
             await bot.send_video(
@@ -162,7 +162,7 @@ async def doc(bot, update):
                 thumb=ph_path,
                 duration=duration,
                 progress=progress_for_pyrogram,
-                progress_args=("💠 Trying To Upload...  ⚡", ms, time.time()))
+                progress_args=("💠 <b>Uploading now ...</b> ⚡", ms, time.time()))
 
         elif type == "audio": 
             await bot.send_audio(
@@ -172,7 +172,7 @@ async def doc(bot, update):
                 thumb=ph_path,
                 duration=duration,
                 progress=progress_for_pyrogram,
-                progress_args=("💠 Trying To Upload...  ⚡", ms, time.time()))
+                progress_args=("💠 <b>Uploading now ...</b> ⚡", ms, time.time()))
 
 
     except Exception as e:          
