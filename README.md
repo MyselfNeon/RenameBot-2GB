@@ -105,9 +105,9 @@ del_prefix - Delete Your Prefix
 set_suffix - Set Your Suffix
 see_suffix - See Your Suffix
 del_suffix - Delete Your Suffix
-restart - To restart the bot [FOR ADMINS ONLY]
-broadcast - Message Broadcast command [FOR ADMINS ONLY]
-status - Check bot status [FOR ADMINS ONLY]
+restart - To restart the Bot (Admins Only)
+broadcast - Message Broadcast command (Admins Only)
+status - Check Bot status (Admins Only)
 ```
 <b><i>⪼ Copy all Commands and paste it in <a href='https://t.me/botfather'>BotFather</a> to apply commands.
 
