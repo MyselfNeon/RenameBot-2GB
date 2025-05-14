@@ -91,14 +91,14 @@ python3 bot.py
 ### _Commands_
 
 ```
-start - Check if the bot is running.
-viewthumb - To view current thumbnail.
-delthumb - To delete current thumbnail.
-set_caption - set a custom caption.
-see_caption - see your custom caption.
-del_caption - delete custom caption.
-ping - To check bot ping.
-donate - To support developer.
+start - Check if the bot is Alive
+viewthumb - To view current thumbnail
+delthumb - To delete current thumbnail
+set_caption - set a custom caption
+see_caption - see your custom caption
+del_caption - delete custom caption
+ping - To check bot ping
+donate - To support developer
 set_prefix - Set Your Prefix
 see_prefix - See Your Prefix
 del_prefix - Delete Your Prefix
@@ -106,10 +106,10 @@ set_suffix - Set Your Suffix
 see_suffix - See Your Suffix
 del_suffix - Delete Your Suffix
 restart - To restart the bot [FOR ADMINS ONLY]
-broadcast - Message Broadcast command [FOR ADMINS ONLY].
-status - Check bot status [FOR ADMINS ONLY].
+broadcast - Message Broadcast command [FOR ADMINS ONLY]
+status - Check bot status [FOR ADMINS ONLY]
 ```
-<b><i>⪼ Copy all Commands and paste it in <a href='https://t.me/botfather'>Botfather</a> to apply commands.
+<b><i>⪼ Copy all Commands and paste it in <a href='https://t.me/botfather'>BotFather</a> to apply commands.
 
 <h3>Contact Developer</h3>
 
