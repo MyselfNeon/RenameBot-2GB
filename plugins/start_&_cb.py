@@ -11,11 +11,11 @@ async def start(client, message):
     user = message.from_user
     await jishubotz.add_user(client, message)                
     button = InlineKeyboardMarkup([
-        [InlineKeyboardButton('🔊 Updates', url='https://t.me/NeonFiles'),
+        [InlineKeyboardButton('🔊 Uᴘᴅᴀᴛᴇs', url='https://t.me/NeonFiles'),
         InlineKeyboardButton('♻️ Sᴜᴩᴩᴏʀᴛ', url='https://t.me/+o1s-8MppL2syYTI9')],
-        [InlineKeyboardButton('❤️‍🩹 About', callback_data='about'),
-        InlineKeyboardButton('🛠️ Help', callback_data='help')],
-        [InlineKeyboardButton("👨‍💻 Developer", url='https://t.me/MyselfNeon')]
+        [InlineKeyboardButton('❤️‍🩹 Aʙᴏᴜᴛ', callback_data='about'),
+        InlineKeyboardButton('🛠️ Hᴇʟᴘ', callback_data='help')],
+        [InlineKeyboardButton("👨‍💻 Dᴇᴠᴇʟᴏᴘᴇʀ", url='https://t.me/MyselfNeon')]
     ])
     if Config.START_PIC:
         await message.reply_photo(Config.START_PIC, caption=Txt.START_TXT.format(user.mention), reply_markup=button)       
@@ -31,11 +31,11 @@ async def cb_handler(client, query: CallbackQuery):
             text=Txt.START_TXT.format(query.from_user.mention),
             disable_web_page_preview=True,
             reply_markup = InlineKeyboardMarkup([
-                [InlineKeyboardButton('🔊 Updates', url='https://t.me/NeonFiles'),
+                [InlineKeyboardButton('🔊 Uᴘᴅᴀᴛᴇs', url='https://t.me/NeonFiles'),
                 InlineKeyboardButton('♻️ Sᴜᴩᴩᴏʀᴛ', url='https://t.me/OnionXbot')],
-                [InlineKeyboardButton('❤️‍🩹 About', callback_data='about'),
-                InlineKeyboardButton('🛠️ Help', callback_data='help')],
-                [InlineKeyboardButton("👨‍💻 Developer", url='https://t.me/MyselfNeon')]
+                [InlineKeyboardButton('❤️‍🩹 Aʙᴏᴜᴛ', callback_data='about'),
+                InlineKeyboardButton('🛠️ Hᴇʟᴘ', callback_data='help')],
+                [InlineKeyboardButton("👨‍💻 Dᴇᴠᴇʟᴏᴘᴇʀ", url='https://t.me/MyselfNeon')]
             ])
         )
     elif data == "help":
@@ -44,8 +44,8 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([
                 [InlineKeyboardButton("⚡ Files Sharing Bot", url="https://t.me/NeonFilesBot")],
-                [InlineKeyboardButton("🔒 Close", callback_data = "close"),
-                InlineKeyboardButton("◀️ Back", callback_data = "start")]
+                [InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
+                InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")]
             ])            
         )
     elif data == "about":
@@ -75,8 +75,8 @@ async def cb_handler(client, query: CallbackQuery):
 async def donate(client, message):
 	text = Txt.DONATE_TXT
 	keybord = InlineKeyboardMarkup([
-        			[InlineKeyboardButton("🦋 Admin",url = "https://t.me/OnionXbot"), 
-        			InlineKeyboardButton("✖️ Close",callback_data = "close") ]])
+        			[InlineKeyboardButton("🦋 Aᴅᴍɪɴ",url = "https://t.me/OnionXbot"), 
+        			InlineKeyboardButton("✖️ Cʟᴏꜱᴇ",callback_data = "close") ]])
 	await message.reply_text(text = text,reply_markup = keybord)
 
 
