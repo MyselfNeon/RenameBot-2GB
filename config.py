@@ -31,7 +31,7 @@ class Txt(object):
     # part of text configuration
     START_TXT = """<b><i>Hello</i> {} 👋</b>
 
-<b><i>I am Powerful Advanced Rename Bot.\nDeveloped by <a href='https://t.me/MyselfNeon'>NeonAnurag</a></i></b>
+<b><i>I am Powerful Advanced Rename Bot.\nDeveloped by <a href='https://t.me/MyselfNeon'>NeonAnurag</a>.</i></b>
 
 <b><i>• Rename Files
 • Convert Videos ⇄ Files
