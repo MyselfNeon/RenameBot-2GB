@@ -86,7 +86,7 @@ class Txt(object):
 <b><i>🛍 UPI ID:</i></b> `NeonAn23@axl`
 
 
-<b><i>💬 For Any Help Contact @OnionXbot </i></b>
+<b><i>💬 For Any Help Msg @OnionXbot </i></b>
 """
 
 
