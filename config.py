@@ -29,7 +29,7 @@ class Config(object):
 
 class Txt(object):
     # part of text configuration
-    START_TXT = """<b><i>Hello</i> {} 👋 <i>\n\nI am Powerful Advanced Rename Bot.\nDeveloped by <a href='https://t.me/MyselfNeon'>NeonAnurag</a>.\n• Rename Files \n• Convert Videos ⇄ Files \n• Custom Thumbnail and Caption.</i></b>"""
+    START_TXT = """<b><i>Hello</i> {} 👋 <i>\n\nI am Powerful Advanced Rename Bot.\nDeveloped by <a href='https://t.me/MyselfNeon'>NeonAnurag</a>.\n\n• Rename Files \n• Convert Videos ⇄ Files \n• Custom Thumbnail and Caption.</i></b>"""
 
     ABOUT_TXT = """
 ╭───────────────⍟
