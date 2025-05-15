@@ -75,7 +75,7 @@ async def cb_handler(client, query: CallbackQuery):
 async def donate(client, message):
 	text = Txt.DONATE_TXT
 	keybord = InlineKeyboardMarkup([
-        			[InlineKeyboardButton("🦋 Aᴅᴍɪɴ",url = "https://t.me/OnionXbot"), 
+        			[InlineKeyboardButton("🦋 Aᴅᴍɪɴ",url = "https://t.me/MyselfNeon"), 
         			InlineKeyboardButton("✖️ Cʟᴏꜱᴇ",callback_data = "close") ]])
 	await message.reply_text(text = text,reply_markup = keybord)
 
