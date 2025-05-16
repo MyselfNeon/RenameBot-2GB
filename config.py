@@ -57,12 +57,10 @@ class Txt(object):
 /del_caption - <i>Use This Command To Delete Your Custom Caption</i>
 
 ⚠️ Example
-<blockquote>
-<code>/set_caption 📕 Name ➠ : {filename}
+<blockquote><code>/set_caption 📕 Name ➠ : {filename}
 
 <b>🔗 Size ➠ : {filesize} 
-<b>⏰ Duration ➠ : {duration}</code>
-<blockquote>
+<b>⏰ Duration ➠ : {duration}</code><blockquote>
 
 ⁉️ <b><u>How To Rename A File</u></b>
 
