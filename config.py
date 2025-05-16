@@ -56,11 +56,13 @@ class Txt(object):
 /see_caption - <i>Use This Command To View Your Custom Caption</i>
 /del_caption - <i>Use This Command To Delete Your Custom Caption</i>
 
-⚠️ Example
-<blockquote><code>/set_caption 📕 Name ➠ : {filename}
+⚠️ **<u>Example</u>**
+```
+<code>/set_caption 📕 Name ➠ : {filename}
 
 <b>🔗 Size ➠ : {filesize} 
-<b>⏰ Duration ➠ : {duration}</code><blockquote>
+<b>⏰ Duration ➠ : {duration}</code>
+```
 
 ⁉️ <b><u>How To Rename A File</u></b>
 
