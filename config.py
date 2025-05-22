@@ -33,13 +33,13 @@ class Txt(object):
 
     ABOUT_TXT = """
 ╭───────────────⍟
-├<b><i>🤖 My Name</i></b> : <b>{}</b>
-├<b><i>🖥️ Dᴇᴠᴇʟᴏᴘᴇʀ</i></b> : <a href=https://t.me/OnionXbot><b><i>Contact Me</i></b></a> 
-├<b><i>👨‍💻 Programer</i></b> : <a href=https://t.me/MyselfNeon><b><i>MyselfNeon</i></b></a>
-├<b><i>📕 Library</i></b> : <a href=https://github.com/pyrogram><b><i>Pyrogram</i></b></a>
-├<b><i>✏️ Language</i></b> : <a href=https://www.python.org><b><i>Python 3</i></b></a>
-├<b><i>💾 Database</i></b> : <a href=https://cloud.mongodb.com><b><i>Mongo DB</i></b></a>
-├<b><i>📢 Channel</i></b> : <a href=https://t.me/NeonFiles><b><i>Rename v4.5.0</i></a></b>     
+├<b><i>🤖 Mʏ Nᴀᴍᴇ</i></b> : <b>{}</b>
+├<b><i>🖥️ Dᴇᴠᴇʟᴏᴘᴇʀ</i></b> : <a href=https://t.me/OnionXbot><b><i>Cᴏɴᴛᴀᴄᴛ Mᴇ</i></b></a> 
+├<b><i>👨‍💻 Pʀᴏɢʀᴀᴍᴍᴇʀ</i></b> : <a href=https://t.me/MyselfNeon><b><i>MʏsᴇʟғNᴇᴏɴ</i></b></a>
+├<b><i>📕 Lɪʙʀᴀʀʏ</i></b> : <a href=https://github.com/pyrogram><b><i>Pʏʀᴏɢʀᴀᴍ</i></b></a>
+├<b><i>✏️ Lᴀɴɢᴜᴀɢᴇ</i></b> : <a href=https://www.python.org><b><i>Pʏᴛʜᴏɴ 3</i></b></a>
+├<b><i>💾 Dᴀᴛᴀʙᴀsᴇ</i></b> : <a href=https://cloud.mongodb.com><b><i>Mᴏɴɢᴏ DB</i></b></a>
+├<b><i>📢 Cʜᴀɴɴᴇʟ</i></b> : <a href=https://t.me/NeonFiles><b><i>Rᴇɴᴀᴍᴇ ᴠ4.5.0</i></a></b>     
 ╰───────────────⍟
 """
 
