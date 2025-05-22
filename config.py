@@ -15,7 +15,7 @@ class Config(object):
  
     # other configs
     BOT_UPTIME  = time.time()
-    START_PIC   = os.environ.get("START_PIC", "https://envs.sh/RQS.jpg")
+    START_PIC   = os.environ.get("START_PIC", "https://envs.sh/rxA.jpg")
     ADMIN = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '').split()]
 
     # channels logs
