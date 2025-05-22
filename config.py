@@ -46,7 +46,7 @@ class Txt(object):
     HELP_TXT = """
 ⁉️ <b><u>__Hᴏᴡ Tᴏ Sᴇᴛ Tʜᴜᴍʙɴᴀɪʟ__</u></b>
   
-🔸 <i>**Sᴛᴀʀᴛ Tʜᴇ Bᴏᴛ Aɴᴅ Sᴇɴᴅ Aɴʏ Pʜᴏᴛᴏ ᴛᴏ Aᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ Sᴇᴛ Tʜᴜᴍʙɴᴀɪʟ /start**</i>
+🔸 <i>**Sᴛᴀʀᴛ & Sᴇɴᴅ Aɴʏ Pʜᴏᴛᴏ ᴛᴏ Sᴇᴛ Tʜᴜᴍʙɴᴀɪʟ Aᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ /start**</i>
 🔸 <i>**Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ ᴛᴏ Vɪᴇᴡ Yᴏᴜʀ Cᴜʀʀᴇɴᴛ Tʜᴜᴍʙɴᴀɪʟ /view_thumb**</i>
 🔸 <i>**Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ ᴛᴏ Dᴇʟᴇᴛᴇ Yᴏᴜʀ Oʟᴅ Tʜᴜᴍʙɴᴀɪʟ /del_thumb**</i>
 
@@ -66,7 +66,7 @@ class Txt(object):
 
 ⁉️ <b><u>__Hᴏᴡ Tᴏ Rᴇɴᴀᴍᴇ A Fɪʟᴇ__</u></b>
 
-<i>Sᴇɴᴅ Aɴʏ Fɪʟᴇ Aɴᴅ Tʏᴘᴇ Nᴇᴡ Fɪʟᴇ Nᴀᴍᴇ Aɴᴅ Sᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ Dᴏᴄᴜᴍᴇɴᴛ, Vɪᴅᴇᴏ, Aᴜᴅɪᴏ ]</i> 
+<i>**Sᴇɴᴅ Aɴʏ Fɪʟᴇ Aɴᴅ Tʏᴘᴇ Nᴇᴡ Fɪʟᴇ Nᴀᴍᴇ Aɴᴅ Sᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ Dᴏᴄᴜᴍᴇɴᴛ, Vɪᴅᴇᴏ, Aᴜᴅɪᴏ ]**</i> 
 
 <b><i>🎊 Cᴏɴᴛᴀᴄᴛ Dᴇᴠᴇʟᴏᴘᴇʀ</b></i><a href=https://t.me/OnionXbot><b><i> Developer</i></b></a>
 """
