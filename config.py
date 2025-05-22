@@ -79,14 +79,14 @@ class Txt(object):
 """
 
     DONATE_TXT = """
-<b><i>Thanks For Showing Interest In Donation! ❤️</i></b>
+<b><i>Tʜᴀɴᴋs Fᴏʀ Sʜᴏᴡɪɴɢ Iɴᴛᴇʀᴇsᴛ Iɴ Dᴏɴᴀᴛɪᴏɴ! ❤️</i></b>
 
-<b><i>If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.</i></b>
+<b><i>Iғ Yᴏᴜ Lɪᴋᴇ Mʏ Bᴏᴛs & Pʀᴏᴊᴇᴄᴛs, Yᴏᴜ Cᴀɴ 🎁 Dᴏɴᴀᴛᴇ Mᴇ Aɴʏ Aᴍᴏᴜɴᴛ Fʀᴏᴍ 10 Rs Uᴘᴛᴏ Yᴏᴜʀ Cʜᴏɪᴄᴇ</i></b>
 
 <b><i>🛍 UPI ID:</i></b> `NeonAn23@axl`
 
 
-<b><i>💬 For Any Help Msg @OnionXbot </i></b>
+<b><i>💬 Fᴏʀ Aɴʏ Hᴇʟᴘ Msɢ @OnionXbot </i></b>
 """
 
 
