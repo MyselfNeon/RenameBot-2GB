@@ -46,15 +46,15 @@ class Txt(object):
     HELP_TXT = """
 ⁉️ <b><u>Hᴏᴡ Tᴏ Sᴇᴛ Tʜᴜᴍʙɴᴀɪʟ</u></b>
   
-/start - <i>Start The Bot And Send Any Photo To Automatically Set Thumbnail.</i>
-/del_thumb - <i>Use This Command To Delete Your Old Thumbnail.</i>
-/view_thumb - <i>Use This Command To View Your Current Thumbnail.</i>
+/start - <i>Sᴛᴀʀᴛ Tʜᴇ Bᴏᴛ Aɴᴅ Sᴇɴᴅ Aɴʏ Pʜᴏᴛᴏ ᴛᴏ Aᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ Sᴇᴛ Tʜᴜᴍʙɴᴀɪʟ</i>
+/del_thumb - <i>Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ ᴛᴏ Dᴇʟᴇᴛᴇ Yᴏᴜʀ Oʟᴅ Tʜᴜᴍʙɴᴀɪʟ</i>
+/view_thumb - <i>Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ ᴛᴏ Vɪᴇᴡ Yᴏᴜʀ Cᴜʀʀᴇɴᴛ Tʜᴜᴍʙɴᴀɪʟ</i>
 
 ⁉️ <b><u>Hᴏᴡ Tᴏ Sᴇᴛ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ</u></b>
 
-/set_caption - <i>Use This Command To Set A Custom Caption</i>
-/see_caption - <i>Use This Command To View Your Custom Caption</i>
-/del_caption - <i>Use This Command To Delete Your Custom Caption</i>
+/set_caption - <i>Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ ᴛᴏ Sᴇᴛ ᴀ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ</i>
+/see_caption - <i>Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ ᴛᴏ Vɪᴇᴡ Yᴏᴜʀ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ</i>
+/del_caption - <i>Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ ᴛᴏ Dᴇʟᴇᴛᴇ Yᴏᴜʀ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ</i>
 
 💡❓ **<u>Exᴀᴍᴘʟᴇ</u>**
 ```
@@ -66,7 +66,7 @@ class Txt(object):
 
 ⁉️ <b><u>Hᴏᴡ Tᴏ Rᴇɴᴀᴍᴇ A Fɪʟᴇ</u></b>
 
-<i>Send Any File And Type New File Name And Select The Format [ Document, Video, Audio ].</i> 
+<i>Sᴇɴᴅ Aɴʏ Fɪʟᴇ Aɴᴅ Tʏᴘᴇ Nᴇᴡ Fɪʟᴇ Nᴀᴍᴇ Aɴᴅ Sᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ Dᴏᴄᴜᴍᴇɴᴛ, Vɪᴅᴇᴏ, Aᴜᴅɪᴏ ]</i> 
 
 <b><i>🎊 Cᴏɴᴛᴀᴄᴛ Dᴇᴠᴇʟᴏᴘᴇʀ</b></i><a href=https://t.me/OnionXbot><b><i> Developer</i></b></a>
 """
