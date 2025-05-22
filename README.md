@@ -2,7 +2,7 @@
     RenameBot-2GB
 </h2>
 
-<img src="https://envs.sh/7gZ.jpg" alt="logo" target="/blank">
+<img src="https://envs.sh/rxA.jpg" alt="logo" target="/blank">
 
 _**Watch on Telegram as [Rename2GB](https://t.me/rename2GBbot)**_
 
