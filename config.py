@@ -29,7 +29,7 @@ class Config(object):
 
 class Txt(object):
     # part of text configuration
-    START_TXT = """<b><i>Hᴇʟʟᴏ</i> {} 👋 <i>\n\I Aᴍ Pᴏᴡᴇʀғᴜʟ Aᴅᴠᴀɴᴄᴇᴅ Rᴇɴᴀᴍᴇ Bᴏᴛ.\nDᴇᴠᴇʟᴏᴘᴇᴅ Bʏ <a href='https://t.me/MyselfNeon'>NᴇᴏɴAɴᴜʀᴀɢ</a>.\n\n• Rᴇɴᴀᴍᴇ Fɪʟᴇs \n• Cᴏɴᴠᴇʀᴛ Vɪᴅᴇᴏs ♻️ Fɪʟᴇs \n• Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ Aɴᴅ Cᴀᴘᴛɪᴏɴ.</i></b>"""
+    START_TXT = """<b><i>Hᴇʟʟᴏ</i> {} 👋 <i>\n\nI Aᴍ Pᴏᴡᴇʀғᴜʟ Aᴅᴠᴀɴᴄᴇᴅ Rᴇɴᴀᴍᴇ Bᴏᴛ.\nDᴇᴠᴇʟᴏᴘᴇᴅ Bʏ <a href='https://t.me/MyselfNeon'>NᴇᴏɴAɴᴜʀᴀɢ</a>.\n\n• Rᴇɴᴀᴍᴇ Fɪʟᴇs \n• Cᴏɴᴠᴇʀᴛ Vɪᴅᴇᴏs ♻️ Fɪʟᴇs \n• Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ Aɴᴅ Cᴀᴘᴛɪᴏɴ.</i></b>"""
 
     ABOUT_TXT = """
 ╭───────────────⍟
