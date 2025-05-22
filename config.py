@@ -68,7 +68,7 @@ class Txt(object):
 
 <i>Send Any File And Type New File Name And Select The Format [ Document, Video, Audio ].</i> 
 
-<b><i>☎️ Aɴʏ Oᴛʜᴇʀ Hᴇʟᴘ Cᴏɴᴛᴀᴄᴛ Dᴇᴠᴇʟᴏᴘᴇʀ</b></i><a href=https://t.me/OnionXbot><b><i> Developer</i></b></a>
+<b><i>🎊 Cᴏɴᴛᴀᴄᴛ Dᴇᴠᴇʟᴏᴘᴇʀ</b></i><a href=https://t.me/OnionXbot><b><i> Developer</i></b></a>
 """
 
     PROGRESS_BAR = """\n
