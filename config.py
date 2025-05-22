@@ -29,7 +29,7 @@ class Config(object):
 
 class Txt(object):
     # part of text configuration
-    START_TXT = """<b><i>Hello</i> {} 👋 <i>\n\nI am Powerful Advanced Rename Bot.\nDeveloped by <a href='https://t.me/MyselfNeon'>NeonAnurag</a>.\n\n• Rename Files \n• Convert Videos ⇄ Files \n• Custom Thumbnail and Caption.</i></b>"""
+    START_TXT = """<b><i>Hᴇʟʟᴏ</i> {} 👋 <i>\n\nI am Powerful Advanced Rename Bot.\nDeveloped by <a href='https://t.me/MyselfNeon'>NeonAnurag</a>.\n\n• Rename Files \n• Convert Videos ⇄ Files \n• Custom Thumbnail and Caption.</i></b>"""
 
     ABOUT_TXT = """
 ╭───────────────⍟
@@ -44,19 +44,19 @@ class Txt(object):
 """
 
     HELP_TXT = """
-⁉️ <b><u>How To Set Thumbnail</u></b>
+⁉️ <b><u>Hᴏᴡ Tᴏ Sᴇᴛ Tʜᴜᴍʙɴᴀɪʟ</u></b>
   
 /start - <i>Start The Bot And Send Any Photo To Automatically Set Thumbnail.</i>
 /del_thumb - <i>Use This Command To Delete Your Old Thumbnail.</i>
 /view_thumb - <i>Use This Command To View Your Current Thumbnail.</i>
 
-⁉️ <b><u>How To Set Custom Caption</u></b>
+⁉️ <b><u>Hᴏᴡ Tᴏ Sᴇᴛ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ</u></b>
 
 /set_caption - <i>Use This Command To Set A Custom Caption</i>
 /see_caption - <i>Use This Command To View Your Custom Caption</i>
 /del_caption - <i>Use This Command To Delete Your Custom Caption</i>
 
-⚠️ **<u>Example</u>**
+💡 **<u>Exᴍᴘʟᴇ</u>**
 ```
 <code>/set_caption 📕 Name ➠ : {filename}
 
@@ -64,17 +64,17 @@ class Txt(object):
 <b>⏰ Duration ➠ : {duration}</code>
 ```
 
-⁉️ <b><u>How To Rename A File</u></b>
+⁉️ <b><u>Hᴏᴡ Tᴏ Rᴇɴᴀᴍᴇ A Fɪʟᴇ</u></b>
 
 <i>Send Any File And Type New File Name And Select The Format [ Document, Video, Audio ].</i> 
 
-<b><i>➡️ Any Other help Contact</b></i><a href=https://t.me/OnionXbot><b><i> Developer</i></b></a>
+<b><i>☎️ Aɴʏ Oᴛʜᴇʀ Hᴇʟᴘ Cᴏɴᴛᴀᴄᴛ Dᴇᴠᴇʟᴏᴘᴇʀ</b></i><a href=https://t.me/OnionXbot><b><i> Developer</i></b></a>
 """
 
     PROGRESS_BAR = """\n
- <b><i>🔗 Size :</i></b> {1} | {2}
-️ <b><i>⏳️ Done :</i></b> {0}%
- <b><i>🚀 Speed :</i></b> {3}/s
+ <b><i>🔗 Sɪᴢᴇ :</i></b> {1} | {2}
+️ <b><i>⏳️ Dᴏɴᴇ :</i></b> {0}%
+ <b><i>🚀 Sᴘᴇᴇᴅ :</i></b> {3}/s
 ️ <b><i>⏰️ ETA :</i></b> {4}
 """
 
