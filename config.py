@@ -68,7 +68,7 @@ class Txt(object):
 
 <i>**Sᴇɴᴅ Aɴʏ Fɪʟᴇ Aɴᴅ Tʏᴘᴇ Nᴇᴡ Fɪʟᴇ Nᴀᴍᴇ Aɴᴅ Sᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ Dᴏᴄᴜᴍᴇɴᴛ, Vɪᴅᴇᴏ, Aᴜᴅɪᴏ ]**</i> 
 
-<b><i>🎊 Cᴏɴᴛᴀᴄᴛ Dᴇᴠᴇʟᴏᴘᴇʀ</b></i><a href=https://t.me/OnionXbot><b><i> Developer</i></b></a>
+<b><i>🎊 </b></i><a href=https://t.me/OnionXbot><b><i>Cᴏɴᴛᴀᴄᴛ Dᴇᴠᴇʟᴏᴘᴇʀ</i></b></a>
 """
 
     PROGRESS_BAR = """\n
