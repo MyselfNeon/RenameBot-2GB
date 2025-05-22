@@ -16,7 +16,7 @@ class Config(object):
     # other configs
     BOT_UPTIME  = time.time()
     START_PIC   = os.environ.get("START_PIC", "https://envs.sh/rxA.jpg")
-    ADMIN = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '').split()]
+    ADMIN = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '841851780').split()]
 
     # channels logs
     FORCE_SUB   = os.environ.get("FORCE_SUB", "NeonFiles") 
@@ -29,7 +29,7 @@ class Config(object):
 
 class Txt(object):
     # part of text configuration
-    START_TXT = """<b><i>Hᴇʟʟᴏ</i> {} 👋 <i>\n\nI am Powerful Advanced Rename Bot.\nDeveloped by <a href='https://t.me/MyselfNeon'>NeonAnurag</a>.\n\n• Rename Files \n• Convert Videos ⇄ Files \n• Custom Thumbnail and Caption.</i></b>"""
+    START_TXT = """<b><i>Hᴇʟʟᴏ</i> {} 👋 <i>\n\I Aᴍ Pᴏᴡᴇʀғᴜʟ Aᴅᴠᴀɴᴄᴇᴅ Rᴇɴᴀᴍᴇ Bᴏᴛ.\nDᴇᴠᴇʟᴏᴘᴇᴅ Bʏ <a href='https://t.me/MyselfNeon'>NᴇᴏɴAɴᴜʀᴀɢ</a>.\n\n• Rᴇɴᴀᴍᴇ Fɪʟᴇs \n• Cᴏɴᴠᴇʀᴛ Vɪᴅᴇᴏs ♻️ Fɪʟᴇs \n• Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ Aɴᴅ Cᴀᴘᴛɪᴏɴ.</i></b>"""
 
     ABOUT_TXT = """
 ╭───────────────⍟
