@@ -52,9 +52,9 @@ class Txt(object):
 
 > ⁉️ <b><u>Hᴏᴡ Tᴏ Sᴇᴛ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ</u></b>
 
-/set_caption - <i>**Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ ᴛᴏ Sᴇᴛ ᴀ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ**</i>
-/see_caption - <i>**Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ ᴛᴏ Vɪᴇᴡ Yᴏᴜʀ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ**</i>
-/del_caption - <i>**Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ ᴛᴏ Dᴇʟᴇᴛᴇ Yᴏᴜʀ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ**</i>
+• <i>**Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ ᴛᴏ Sᴇᴛ ᴀ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ** /set_caption</i>
+• <i>**Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ ᴛᴏ Vɪᴇᴡ Yᴏᴜʀ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ** /see_caption</i>
+• <i>**Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ ᴛᴏ Dᴇʟᴇᴛᴇ Yᴏᴜʀ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ** /del_caption</i>
 
 > ⁉️ **<u>Exᴀᴍᴘʟᴇ</u>**
 ```
