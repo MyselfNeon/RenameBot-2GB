@@ -56,7 +56,7 @@ class Txt(object):
 /see_caption - <i>Use This Command To View Your Custom Caption</i>
 /del_caption - <i>Use This Command To Delete Your Custom Caption</i>
 
-💡 **<u>Exᴍᴘʟᴇ</u>**
+💡❓ **<u>Exᴀᴍᴘʟᴇ</u>**
 ```
 <code>/set_caption 📕 Name ➠ : {filename}
 
