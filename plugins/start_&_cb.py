@@ -43,7 +43,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=Txt.HELP_TXT,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([
-                [InlineKeyboardButton("⚡ Files Sharing Bot", url="https://t.me/NeonFilesBot")],
+                [InlineKeyboardButton("⚡ Fɪʟᴇs Sʜᴀʀɪɴɢ Bᴏᴛ", url="https://t.me/NeonFilesBot")],
                 [InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
                 InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")]
             ])            
@@ -53,7 +53,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=Txt.ABOUT_TXT.format(client.mention),
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup([
-                [InlineKeyboardButton("🤖 More Bots", url="https://t.me/NeonFiles")],
+                [InlineKeyboardButton("🤖 Mᴏʀᴇ Bᴏᴛs", url="https://t.me/NeonFiles")],
                 [InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
                 InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")]
             ])            
