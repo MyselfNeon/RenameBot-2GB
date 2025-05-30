@@ -56,7 +56,7 @@ class Txt(object):
 🔹 <i>**Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ ᴛᴏ Vɪᴇᴡ Yᴏᴜʀ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ /see_caption**</i>
 🔹 <i>**Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ ᴛᴏ Dᴇʟᴇᴛᴇ Yᴏᴜʀ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ /del_caption**</i>
 
-> ⁉️ **<u>__Exᴀᴍᴘʟᴇ__</u>**
+⁉️ **<u>__Exᴀᴍᴘʟᴇ__</u>**
 ```
 <code>/set_caption 📕 Name ➠ : {filename}
 
