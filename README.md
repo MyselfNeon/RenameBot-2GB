@@ -113,8 +113,9 @@ status - Check Bot status (Admins Only)
 
 <h3>Contact Developer</h3>
 
-<a href="https://telegram.me/Talk2NeonBot"><img src="https://img.shields.io/badge/-Contact%20Dev-blue.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://telegram.me/neonfiles"><img src="https://img.shields.io/badge/-Update%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+[![Contact Developer](https://img.shields.io/badge/Contact-Developer-blue?logo=telegram)](https://t.me/MyselfNeon)
+
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram)](https://t.me/neonfiles)
 
 <h3>Visitors Counts 👀</h3>
 <a href="https://github.com/MyselfNeon/RenameBot-2GB"><img alt="Cute Count" src="https://count.getloli.com/get/@RenameBot-2GB?theme=rule34" /></a>
