@@ -122,6 +122,5 @@ status - Check Bot status (Admins Only)
 
 ### Respecting 🌊
 
-<a href="https://github.com/myselfneon"><img src="https://img.shields.io/badge/-Developer%20-red.svg?style=for-the-badge&logo=Github"></a>
-<a href='https://github.com/myselfnron'></a>
-<a href="https://telegram.me/myselfneon"><img src="https://img.shields.io/badge/-Developer%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
+[![GitHub](https://img.shields.io/badge/GitHub-Developer-black?style=for-the-badge&logo=github&logoColor=white&color=red)](https://github.com/MyselfNeon)
+[![Telegram](https://img.shields.io/badge/Telegram-%7C_Developer-black?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc)](https://t.me/MyselfNeon)
