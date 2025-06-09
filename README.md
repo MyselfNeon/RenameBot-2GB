@@ -118,7 +118,7 @@ status - Check Bot status (Admins Only)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram)](https://t.me/neonfiles)
 
 <h3>Visitors Counts 👀</h3>
-<a href="https://github.com/MyselfNeon/RenameBot-2GB"><img alt="Cute Count" src="https://count.getloli.com/get/@RenameBot-2GB?theme=nekos" /></a>
+<a href="https://github.com/MyselfNeon/RenameBot-2GB"><img alt="Cute Count" src="https://count.getloli.com/get/@RenameBot-2GB?theme=rule34" /></a>
 
 ### Respecting 🌊
 
