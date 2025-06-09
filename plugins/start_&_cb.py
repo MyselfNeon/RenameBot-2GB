@@ -32,7 +32,7 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview=True,
             reply_markup = InlineKeyboardMarkup([
                 [InlineKeyboardButton('🔊 Uᴘᴅᴀᴛᴇs', url='https://t.me/NeonFiles'),
-                InlineKeyboardButton('♻️ Sᴜᴩᴩᴏʀᴛ', url='https://t.me/OnionXbot')],
+                InlineKeyboardButton('♻️ Sᴜᴩᴩᴏʀᴛ', url='https://t.me/Talk2NeonBot')],
                 [InlineKeyboardButton('❤️‍🩹 Aʙᴏᴜᴛ', callback_data='about'),
                 InlineKeyboardButton('🛠️ Hᴇʟᴘ', callback_data='help')],
                 [InlineKeyboardButton("👨‍💻 Dᴇᴠᴇʟᴏᴘᴇʀ", url='https://t.me/MyselfNeon')]
