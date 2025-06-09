@@ -34,7 +34,7 @@ class Txt(object):
     ABOUT_TXT = """
 ╭───────────────⍟
 ├<b><i>🤖 Mʏ Nᴀᴍᴇ</i></b> : <b>{}</b>
-├<b><i>🖥️ Dᴇᴠᴇʟᴏᴘᴇʀ</i></b> : <a href=https://t.me/OnionXbot><b><i>Cᴏɴᴛᴀᴄᴛ Mᴇ</i></b></a> 
+├<b><i>🖥️ Dᴇᴠᴇʟᴏᴘᴇʀ</i></b> : <a href=https://t.me/Talk2NeonBot><b><i>Cᴏɴᴛᴀᴄᴛ Mᴇ</i></b></a> 
 ├<b><i>👨‍💻 Pʀᴏɢʀᴀᴍᴍᴇʀ</i></b> : <a href=https://t.me/MyselfNeon><b><i>MʏsᴇʟғNᴇᴏɴ</i></b></a>
 ├<b><i>📕 Lɪʙʀᴀʀʏ</i></b> : <a href=https://github.com/pyrogram><b><i>Pʏʀᴏɢʀᴀᴍ</i></b></a>
 ├<b><i>✏️ Lᴀɴɢᴜᴀɢᴇ</i></b> : <a href=https://www.python.org><b><i>Pʏᴛʜᴏɴ 3</i></b></a>
@@ -68,7 +68,7 @@ class Txt(object):
 
 <i>**Sᴇɴᴅ Aɴʏ Fɪʟᴇ Aɴᴅ Tʏᴘᴇ Nᴇᴡ Fɪʟᴇ Nᴀᴍᴇ Aɴᴅ Sᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ Dᴏᴄᴜᴍᴇɴᴛ, Vɪᴅᴇᴏ, Aᴜᴅɪᴏ ]**</i> 
 
-<b><i>🎊 </b></i><a href=https://t.me/OnionXbot><b><i>Cᴏɴᴛᴀᴄᴛ Dᴇᴠᴇʟᴏᴘᴇʀ</i></b></a>
+<b><i>🎊 </b></i><a href=https://t.me/Talk2NeonBot><b><i>Cᴏɴᴛᴀᴄᴛ Dᴇᴠᴇʟᴏᴘᴇʀ</i></b></a>
 """
 
     PROGRESS_BAR = """\n
@@ -86,7 +86,7 @@ class Txt(object):
 <b><i>🛍 UPI ID:</i></b> `NeonAn23@axl`
 
 
-<b><i>💬 Fᴏʀ Aɴʏ Hᴇʟᴘ Msɢ @OnionXbot </i></b>
+<b><i>💬 Fᴏʀ Aɴʏ Hᴇʟᴘ Msɢ @Talk2NeonBot </i></b>
 """
 
 
