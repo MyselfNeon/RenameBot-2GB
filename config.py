@@ -56,15 +56,13 @@ class Txt(object):
 🔹 <i>**Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ ᴛᴏ Vɪᴇᴡ Yᴏᴜʀ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ /see_caption**</i>
 🔹 <i>**Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ ᴛᴏ Dᴇʟᴇᴛᴇ Yᴏᴜʀ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ /del_caption**</i>
 
-⁉️ **<u>__Exᴀᴍᴘʟᴇ__</u>**
-```
-<code>/set_caption 📕 Name ➠ : {filename}
+⁉️ **__Exᴀᴍᴘʟᴇ_**
+<blockquote><code>/set_caption</code> 📕 Name ➠ : {filename}
 
 <b>🔗 Size ➠ : {filesize} 
-<b>⏰ Duration ➠ : {duration}</code>
-```
+<b>⏰ Duration ➠ : {duration}</blockquote>
 
-⁉️ <b><u>__Hᴏᴡ Tᴏ Rᴇɴᴀᴍᴇ A Fɪʟᴇ__</u></b>
+⁉️ <b><u><i>Hᴏᴡ Tᴏ Rᴇɴᴀᴍᴇ A Fɪʟᴇ</i></u></b>
 
 <i>**Sᴇɴᴅ Aɴʏ Fɪʟᴇ Aɴᴅ Tʏᴘᴇ Nᴇᴡ Fɪʟᴇ Nᴀᴍᴇ Aɴᴅ Sᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ Dᴏᴄᴜᴍᴇɴᴛ, Vɪᴅᴇᴏ, Aᴜᴅɪᴏ ]**</i> 
 
