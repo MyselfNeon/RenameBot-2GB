@@ -57,10 +57,11 @@ class Txt(object):
 🔹 <i>**Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ ᴛᴏ Dᴇʟᴇᴛᴇ Yᴏᴜʀ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ /del_caption**</i>
 
 ⁉️ **__Exᴀᴍᴘʟᴇ_**
-<blockquote><code>/set_caption</code> 📕 Name ➠ : {filename}
+```
+<code>/set_caption</code> 📕 Name ➠ : {filename}
 
 <b>🔗 Size ➠ : {filesize} 
-<b>⏰ Duration ➠ : {duration}</blockquote>
+<b>⏰ Duration ➠ : {duration}```
 
 ⁉️ <b><u><i>Hᴏᴡ Tᴏ Rᴇɴᴀᴍᴇ A Fɪʟᴇ</i></u></b>
 
