@@ -40,7 +40,7 @@ async def progress_for_pyrogram(current, total, ud_type, message, start):
         estimated_total_time = TimeFormatter(milliseconds=estimated_total_time)
 
         # 🔁 New pixel-style icons
-        pixel_symbols = ["░", "▒", "▓", "█"]
+        pixel_symbols = ["█", "░"]
         progress = generate_multi_symbol_progress_bar(percentage, pixel_symbols)
 
         tmp = progress + Txt.PROGRESS_BAR.format( 
