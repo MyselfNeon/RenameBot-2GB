@@ -32,7 +32,7 @@ async def progress_for_pyrogram(current, total, ud_type, message, start):
         try:
             await message.edit(
                 text=f"{ud_type}\n\n{tmp}",               
-                reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("✖️ 𝖢𝖺𝗇𝖼𝖾𝗅 ✖️", callback_data="close")]])                                               
+                reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("❌ Cᴀɴᴄᴇʟ ❌", callback_data="close")]])                                               
             )
         except:
             pass
@@ -76,7 +76,7 @@ async def send_log(b, u):
         time = curr.strftime('%I:%M:%S %p')
         await b.send_message(
             Config.LOG_CHANNEL,
-            f"<b><u><i>𝖭𝖾𝗐 𝖴𝗌𝖾𝗋 𝖲𝗍𝖺𝗋𝗍𝖾𝖽 𝖳𝗁𝖾 𝖡𝗈𝗍</i></u></b> \n\n<b>𝖴𝗌𝖾𝗋 𝖬𝖾𝗇𝗍𝗂𝗈𝗇</b> : {u.mention}\n<b>𝖴𝗌𝖾𝗋 𝖨𝖣</b> : `{u.id}`\n<b>𝖥𝗂𝗋𝗌𝗍 𝖭𝖺𝗆𝖾</b> : {u.first_name} \n<b>𝖫𝖺𝗌𝗍 𝖭𝖺𝗆𝖾</b> : {u.last_name} \n<b>𝖴𝗌𝖾𝗋 𝖭𝖺𝗆𝖾</b> : @{u.username} \n<b>𝖴𝗌𝖾𝗋 𝖫𝗂𝗇𝗄</b> : <a href='tg://openmessage?user_id={u.id}'>𝖢𝗅𝗂𝖼𝗄 𝖧𝖾𝗋𝖾</a>\n\n<b>𝖣𝖺𝗍𝖾</b> : {date}\n<b>𝖳𝗂𝗆𝖾</b> : {time}"
+            f"<b><u><i>Nᴇᴡ Usᴇʀ Sᴛᴀʀᴛᴇᴅ Tʜᴇ Bᴏᴛ</i></u></b> \n\n<b>Usᴇʀ Mᴇɴᴛɪᴏɴ</b> : {u.mention}\n<b>𝖴sᴇʀ ID</b> : `{u.id}`\n<b>Fɪʀsᴛ Nᴀᴍᴇ</b> : {u.first_name} \n<b>𝖫ᴀsᴛ Nᴀᴍᴇ</b> : {u.last_name} \n<b>𝖴sᴇʀ Nᴀᴍᴇ</b> : @{u.username} \n<b>Usᴇʀ Lɪɴᴋ</b> : <a href='tg://openmessage?user_id={u.id}'>𝖢ʟɪᴄᴋ Hᴇʀᴇ</a>\n\n<b>𝖣ᴀᴛᴇ</b> : {date}\n<b>𝖳ɪᴍᴇ</b> : {time}"
         )
         
 
