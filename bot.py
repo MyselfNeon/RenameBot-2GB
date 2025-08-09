@@ -45,7 +45,7 @@ class Bot(Client):
                 curr = datetime.now(timezone("Asia/Kolkata"))
                 date = curr.strftime('%d %B, %Y')
                 time = curr.strftime('%I:%M:%S %p')
-                await self.send_message(Config.LOG_CHANNEL, f"**{me.mention} Is Restarted !!**\n\n📅 Date : `{date}`\n⏰ Time : `{time}`\n🌐 Timezone : `Asia/Kolkata`\n\n🉐 Version : `v{__version__} (Layer {layer})`</b>")                                
+                await self.send_message(Config.LOG_CHANNEL, f"**__{me.mention} Is Rᴇsᴛᴀʀᴛᴇᴅ 🌸__**\n\n📅 **__Dᴀᴛᴇ__** : `{date}`\n⏰ **__Tɪᴍᴇ__** : `{time}`\n🌐 **__Tɪᴍᴇᴢᴏɴᴇ__** : `Asia/Kolkata`\n\n🉐 **__Vᴇʀsɪᴏɴ__** : `v{__version__} (**__Lᴀʏᴇʀ__** {layer})`")                                
             except:
                 print("Please Make This Is Admin In Your Log Channel")
 
