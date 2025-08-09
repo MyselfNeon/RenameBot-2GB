@@ -35,9 +35,9 @@ class Bot(Client):
             app = web.AppRunner(await web_server())
             await app.setup()       
             await web.TCPSite(app, "0.0.0.0", 8080).start()     
-        print(f"{me.first_name} Is Started.....✨️")
+        print(f"{me.first_name} Is Sᴛᴀʀᴛᴇᴅ.....✨️")
         for id in Config.ADMIN:
-            try: await self.send_message(id, f"**{me.first_name}  Is Started...**")                                
+            try: await self.send_message(id, f"**__{me.first_name}  Is Sᴛᴀʀᴛᴇᴅ...__ ✨**")                                
             except: pass
         
         if Config.LOG_CHANNEL:
@@ -45,13 +45,9 @@ class Bot(Client):
                 curr = datetime.now(timezone("Asia/Kolkata"))
                 date = curr.strftime('%d %B, %Y')
                 time = curr.strftime('%I:%M:%S %p')
-                await self.send_message(Config.LOG_CHANNEL, f"**{me.mention} Is Restarted !!**\n\n📅 Date : `{date}`\n⏰ Time : `{time}`\n🌐 Timezone : `Asia/Kolkata`\n\n🉐 Version : `v{__version__} (Layer {layer})`</b>")                                
+                await self.send_message(Config.LOG_CHANNEL, f"<b><i>{me.mention} Is Rᴇsᴛᴀʀᴛᴇᴅ 🥳\n\n📅 Dᴀᴛᴇ : `{date}`\n⏰ Tɪᴍᴇ : `{time}`\n🌐 Tɪᴍᴇᴢᴏɴᴇ : `Asia/Kolkata`\n\n🉐 Vᴇʀsɪᴏɴ : `v{__version__} (Layer {layer})`</i></b>")                                
             except:
                 print("Please Make This Is Admin In Your Log Channel")
 
 Bot().run()
-
-
-
-
 
